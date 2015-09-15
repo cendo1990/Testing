@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\SuperChicks\Assets\script\Bullet\MainBullet.cs">
+    <Files>
+      <File FileName="..\SuperChicks\Assets\script\Enemy\Enemy.cs" Line="33" Column="2" />
+      <File FileName="..\SuperChicks\Assets\script\control\MainCharacter.cs" Line="1" Column="1" />
+      <File FileName="..\SuperChicks\Assets\script\Bullet\MainBullet.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
